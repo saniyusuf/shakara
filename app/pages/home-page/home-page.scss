@@ -1,0 +1,30 @@
+.page1 {
+
+  $grid-padding: 2px;
+
+  .singleDesign-container{
+    width: inherit;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
+  ion-grid.design-grid{
+    padding: $grid-padding;
+  }
+
+  ion-col.design-col{
+    padding: $grid-padding;
+  }
+
+  div.design-info{
+    width: inherit;
+    height: 50px;
+    background-color: #ececec;
+    opacity: 0.7;
+    position: absolute;
+    bottom: 0;
+  }
+
+}

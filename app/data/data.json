@@ -1,0 +1,94 @@
+{
+  "female": [
+    {
+      "id": 1,
+      "image": "http://onobello.com/wp-content/uploads/2016/03/Temi-Otedola-OnoBello-1.jpg",
+      "source": "http://onobello.com",
+      "tags": ["rich", "otedola", "temi", "ankara"]
+    },
+    {
+      "id": 2,
+      "image": "https://www.bellanaija.com/wp-content/uploads/2015/09/Temi-Otedola-BellaNaija-September-20150011.jpg",
+      "source": "https://www.bellanaija.com",
+      "tags": ["rich", "otedola", "temi", "ankara", "djcuppy"]
+    },
+    {
+      "id": 3,
+      "image": "https://www.fashionghana.com/wp-content/uploads/2016/03/Salma_Guzel_nigeria-fashionghana-african-fashion-5.png",
+      "source": "https://www.fashionghana.com",
+      "tags": ["olajumoke", "bread seller", "tybello", "tinie tempah", "model"]
+    },
+    {
+      "id": 4,
+      "image": "https://www.bellanaija.com/wp-content/uploads/2016/03/Salma_Guzel_2016_2.png",
+      "source": "https://www.bellanaija.com",
+      "tags": ["olajumoke", "bread seller", "tybello", "tinie tempah", "model"]
+    },
+    {
+      "id": 5,
+      "image": "http://onobello.com/wp-content/uploads/2014/12/05-LDA-OnoBello-1203.jpg",
+      "source": "http://onobello.com",
+      "tags": ["fashion", "ankara"]
+    },
+    {
+      "id": 6,
+      "image": "http://2.bp.blogspot.com/-Vydl37CpGz0/UFNrPZg-dnI/AAAAAAAAA3o/3C8AQpW8tAA/s1600/Fashion+in+Nigeria.jpg",
+      "source": "http://2.bp.blogspot.com",
+      "tags": ["fashion", "ankara", "tree"]
+    },
+    {
+      "id": 7,
+      "image": "http://static1.squarespace.com/static/54e13498e4b0c4ae29d2cf90/55ae2967e4b0d41522ad544c/55d1249ae4b0a9dde5ed3cfc/1439769762337/AFWL+2015+Asaka+Oge+for+Daviva+24.jpg",
+      "source": "http://google.com",
+      "tags": ["fashion", "ankara", "london", "runway"]
+    },
+    {
+      "id": 8,
+      "image": "http://cng.h-cdn.co/assets/16/16/djchascolee-tiwa-savage1.jpg",
+      "source": "http://google.com",
+      "tags": ["fashion", "tiwa savage", "t-bills", "musician", "maven", "celeb", "edible catering"]
+    },
+    {
+      "id": 9,
+      "image": "http://onobello.com/images/2014/apr-1/2-Bijelly-Lookbook0423.jpg",
+      "source": "http://onobello.com",
+      "tags": ["fashion", "model", "bag", "luggage"]
+    },
+    {
+      "id": 10,
+      "image": "http://lh3.googleusercontent.com/-YmZ8Ncy45bI/VUx19B5gcQI/AAAAAAAB5ps/wrmweX7nxO0/s0/imgcc81ce92a42519000e0edf926373531f.jpg",
+      "source": "http://google.com",
+      "tags": ["fashion", "model"]
+    },
+    {
+      "id": 11,
+      "image": "http://www.ankcara.com/wp-content/uploads/2014/04/9ef27bbbf15b015a0cf7ce23edb1fe96-638x.jpg",
+      "source": "http://www.ankcara.com",
+      "tags": ["fashion", "model", "ankara"]
+    },
+    {
+      "id": 12,
+      "image": "http://3.bp.blogspot.com/-MddrujeGEYE/VSv7ZqwSm4I/AAAAAAAAlx8/YHpEa65aSgo/s1600/Ankara-Style-kokovibes.com___19.png",
+      "source": "http://3.bp.blogspot.com",
+      "tags": ["fashion", "model", "ankara", "hips", "black"]
+    },
+    {
+      "id": 13,
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/11/85/12/118512655ce340266f3a8c05071498e0.jpg",
+      "source": "http://pintrest.com",
+      "tags": ["fashion", "maxi", "ankara", "big", "curves"]
+    },
+    {
+      "id": 14,
+      "image": "https://s-media-cache-ak0.pinimg.com/736x/de/f9/d1/def9d18987e1fe6a4223b108289b7d55.jpg",
+      "source": "http://pintrest.com",
+      "tags": ["fashion", "maxi", "ankara", "big", "curves"]
+    },
+    {
+      "id": 15,
+      "image": "https://www.bellanaija.com/wp-content/uploads/2016/03/Salma_Guzel_2016_2.png",
+      "source": "https://www.bellanaija.com",
+      "tags": ["celeb", "olajumoke", "bread seller", "tybello", "tinie tempah", "model"]
+    }
+  ]
+}

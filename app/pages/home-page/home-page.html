@@ -1,0 +1,18 @@
+<ion-navbar *navbar favorite>
+  <ion-title>Styles For Women</ion-title>
+</ion-navbar>
+
+<ion-content class="page1">
+  <ion-grid class="design-grid">
+    <ion-row *ngFor="let designs of gridDesigns">
+      <ion-col width-50 *ngFor="let singleDesign of designs" class="design-col">
+        <div class="singleDesign-container" [ngStyle]="{'background-image' : 'url(' + singleDesign.image +')'}" >
+
+          <!--<div class="design-info">-->
+
+          <!--</div>-->
+        </div>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>
